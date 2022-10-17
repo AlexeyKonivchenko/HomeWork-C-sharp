@@ -15,8 +15,8 @@ while (a <= number)
 {
     if (a % 2 == 0)
     {
-       Console.WriteLine(" "+ a ); 
-       a +=2;
+        Console.WriteLine(" " + a);
+        a += 2;
     }
 }
-    Console.Write("Выведены все четные числa ");
+Console.Write("Выведены все четные числa ");
