@@ -217,4 +217,62 @@
 // sqr(N);
 
 
-{Math.Pow((Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2) + Math.Pow(z2 - z1, 2) *  1.0), 0.5)}"
+// {Math.Pow((Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2) + Math.Pow(z2 - z1, 2) *  1.0), 0.5)}"
+
+
+
+
+
+// Console.Clear();
+// Console.Write("Введите X1: ");
+// int x1 = int.Parse(Console.ReadLine());
+// Console.Write("Введите Y1: ");
+// int y1 = int.Parse(Console.ReadLine());
+// Console.Write("Введите Z1: ");
+// int z1 = int.Parse(Console.ReadLine());
+// Console.Write("Введите X2: ");
+// int x2 = int.Parse(Console.ReadLine());
+// Console.Write("Введите Y2: ");
+// int y2 = int.Parse(Console.ReadLine());
+// Console.Write("Введите Z2: ");
+// int z2 = int.Parse(Console.ReadLine());
+// double d = Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2) + Math.Pow(z1 - z2, 2));
+
+// Console.WriteLine($"d={d:f3}");
+
+
+
+// int[] array = GetBinaryArray(8);
+// Console.WriteLine($" [ {String.Join(",", array)} ] ");
+
+
+// int[] GetBinaryArray(int size)
+// {
+//     int[] result = new int[size];
+//     for (int i = 0; i < size; i++)
+//     {
+//         result[i] = new Random().Next(2);
+//     }
+
+//     return result;
+// }
+
+
+
+
+
+// string[] num = number.Split(',');
+
+
+
+// Условияhttps://drive.google.com/file/d/1L-0DJEqvLLWJt3narSBmVOzhgjgxCfxl/view?usp=sharing
+// Циклыhttps://drive.google.com/file/d/16HeFPlR_eEEVGCGykwUfTJFrnQJsnGHR/view?usp=sharing
+// Массивыhttps://drive.google.com/file/d/1PurYbjxB7zBX5s1oxLmgZq7BRE2DRT5v/view?usp=sharing
+
+
+// Двумерные массивыhttps://drive.google.com/file/d/1AMYk45d4dpJCqHscJ6doUHjG5EqTRWB4/view?usp=sharing
+
+
+// https://qna.habr.com/q/519776
+// https://docs.google.com/presentation/d/1a61-mEq8z9CS2XRe5mC-egYhwOX5AYsz9cLDL5fkwbk/edit#slide=id.g11745f219f0_0_21
+
