@@ -209,9 +209,12 @@
 //     }
 //     else
 //     {
-//         Console.WriteLine("Введите число больше 1");
+        // Console.WriteLine("Введите число больше 1");
 //     }
 // }
 // Console.WriteLine("enter number");
 // int N = Convert.ToInt32(Console.ReadLine());
 // sqr(N);
+
+
+{Math.Pow((Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2) + Math.Pow(z2 - z1, 2) *  1.0), 0.5)}"
