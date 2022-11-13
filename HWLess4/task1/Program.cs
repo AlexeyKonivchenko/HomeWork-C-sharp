@@ -20,18 +20,18 @@ void Pow(int numberA, int numberB)
             result *= numberA;
         }
     }
-    Console.WriteLine($"Number {numberA} to the power of {numberB} is {result}.");
+    Console.WriteLine($"Число {numberA} возведенное в степень {numberB} = {result}.");
 }
 
-Console.WriteLine("Please enter first number: ");
+Console.WriteLine("Введите число А: ");
 int A = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Please enter second number: ");
+Console.WriteLine("Введите число В: ");
 int B = Convert.ToInt32(Console.ReadLine());
 
 if (B < 0)
 {
-    Console.ForegroundColor = ConsoleColor.Red;
-    Console.WriteLine("Second number is incorrect: it must must be 0 or greater.");
+
+    Console.WriteLine("Второе число должно быть положительным.");
 
 }
 else
